@@ -1,0 +1,7 @@
+1. In the Premium Customer class that you created in activity 6,
+   implement the Comparable interface, and have the compare method
+   compared based on how long the customer has been vip
+
+2. Create a new Java class called CustomerComparator, and have it implement
+   the Comparator interface, the compareTo() method should also compare the amount
+   of time the customer has been vip
