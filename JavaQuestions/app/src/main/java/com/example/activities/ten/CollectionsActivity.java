@@ -5,6 +5,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+//Uncomment the code to start the activity
+/*
 public class CollectionsActivity {
 
     public List<String> returnPalindromes(ArrayList<String> words){
@@ -30,3 +32,4 @@ public class CollectionsActivity {
     }
 
 }
+ */

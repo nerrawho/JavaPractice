@@ -1,5 +1,6 @@
 package com.example.activities.two;
-
+//Uncomment the code to complete the activity
+/*
 public class StringsActivity {
 
     //In this activity you will get your hands on some string methods
@@ -31,3 +32,4 @@ public class StringsActivity {
     }
 
 }
+*/

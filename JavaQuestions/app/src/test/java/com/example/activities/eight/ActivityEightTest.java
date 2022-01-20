@@ -7,6 +7,8 @@ import static org.junit.Assert.assertTrue;
 
 public class ActivityEightTest {
 
+//Uncomment the test class to run the test for this activity
+/*
     @Test
     public void validLoginTest() {
         User u = new User("test", "password", 10);
@@ -37,5 +39,6 @@ public class ActivityEightTest {
         User u = new User("test", "password", 10);
         u.pay(15);
     }
+     */
 
 }

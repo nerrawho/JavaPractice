@@ -1,5 +1,7 @@
 package com.example.activities.nine;
 
+//Uncomment the code to start the activity
+/*
 //In this class create a generic implementation of an arraylist that we learned about in training
 //Use Generics to allow any type of object to be stored in the list
 public class GenericArrayList{
@@ -29,3 +31,4 @@ public class GenericArrayList{
     }
 
 }
+*/

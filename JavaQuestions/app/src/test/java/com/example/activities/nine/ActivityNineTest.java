@@ -6,6 +6,8 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
+//Uncomment the test class to run the test for this activity
+/*
 public class ActivityNineTest {
 
     GenericArrayList<String> list;
@@ -84,3 +86,4 @@ public class ActivityNineTest {
 
 
 }
+     */

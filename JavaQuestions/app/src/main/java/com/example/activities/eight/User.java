@@ -1,5 +1,7 @@
 package com.example.activities.eight;
 
+//Uncomment the code to start the activity
+/*
 public class User {
 
     private String username;
@@ -28,3 +30,4 @@ public class User {
     }
 
 }
+ */

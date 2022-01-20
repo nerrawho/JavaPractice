@@ -1,5 +1,7 @@
 package com.example.activities.five;
 
+//Uncomment the code to start the activity
+/*
 public class ArraysActivity {
 
     public int[] squares(int ... a) {
@@ -26,3 +28,4 @@ public class ArraysActivity {
     }
 
 }
+ */

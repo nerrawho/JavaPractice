@@ -8,10 +8,14 @@ import java.util.TreeSet;
 
 import static org.junit.Assert.assertEquals;
 
+//Uncomment the test class to run the test for this activity
+/*
+
 import com.example.activities.six.*;
 import com.example.activities.eleven.*;
 
 public class ActivityElevenTest {
+
 
     @Test
     public void premiumCustomerComparable(){
@@ -46,3 +50,5 @@ public class ActivityElevenTest {
     }
 
 }
+
+ */
