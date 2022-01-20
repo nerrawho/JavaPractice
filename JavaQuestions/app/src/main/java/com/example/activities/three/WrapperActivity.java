@@ -1,5 +1,6 @@
 package com.example.activities.three;
-
+//Uncomment the code to start this activity
+/*
 public class WrapperActivity {
 
     Integer convertToInteger(String num1, String num2){
@@ -16,3 +17,5 @@ public class WrapperActivity {
     }
 
 }
+
+ */

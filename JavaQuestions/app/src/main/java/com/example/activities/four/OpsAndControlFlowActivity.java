@@ -1,5 +1,7 @@
 package com.example.activities.four;
 
+//Uncomment the code to start the activity
+/*
 public class OpsAndControlFlowActivity {
 
     public String fooBar(int input){
@@ -39,3 +41,4 @@ public class OpsAndControlFlowActivity {
 
 
 }
+ */

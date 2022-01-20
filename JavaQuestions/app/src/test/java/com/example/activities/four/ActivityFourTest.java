@@ -3,7 +3,8 @@ package com.example.activities.four;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
-
+//Uncomment the test class to run the test for this activity
+/*
 public class ActivityFourTest {
 
     public OpsAndControlFlowActivity cfa = new OpsAndControlFlowActivity();
@@ -67,3 +68,4 @@ public class ActivityFourTest {
 
 
 }
+ */

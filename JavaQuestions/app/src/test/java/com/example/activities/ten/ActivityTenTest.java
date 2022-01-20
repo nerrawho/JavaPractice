@@ -10,6 +10,8 @@ import java.util.Map;
 
 import static org.junit.Assert.assertTrue;
 
+//Uncomment the test class to run the test for this activity
+/*
 public class ActivityTenTest {
 
     CollectionsActivity ca = new CollectionsActivity();
@@ -83,3 +85,5 @@ public class ActivityTenTest {
         List<Integer> test = ca.iteratorFun(numberList);
     }
 }
+
+ */
